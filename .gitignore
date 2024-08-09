@@ -1,0 +1,8 @@
+# Игнорировать все файлы
+*
+# Но не игнорировать .gitignore
+!.gitignore
+
+# Не игнорировать .py файлы
+!xml_uniq_ads.py
+!start.py
