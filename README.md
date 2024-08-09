@@ -1,4 +1,4 @@
-echo '<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -63,4 +63,4 @@ echo '<!DOCTYPE html>
 
 <p>Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной через <a href="https://t.me/Marselito1">Telegram</a>.</p>
 </body>
-</html>' > README.md
+</html>
